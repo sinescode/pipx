@@ -1,14 +1,7 @@
-# 🚀 PipFix: Bypass Kali Linux `externally-managed-environment` Error with Ease! 🐉
+# 🚀 PipFix: Bypass Linux `externally-managed-environment` Error with Ease! 🐉
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/pipfix?style=social)
 
-![GitHub forks](https://img.shields.io/github/forks/yourusername/pipfix?style=social)
-
-![License](https://img.shields.io/github/license/yourusername/pipfix)
-
-![GitHub issues](https://img.shields.io/github/issues/yourusername/pipfix)## 🎯 The Problem
-
-Running `pip install` on **Kali Linux** often results in the dreaded error:
+Running `pip install` on ** Linux** often results in the dreaded error:
 
 ```
 error: externally-managed-environment
@@ -89,30 +82,14 @@ pip ()
 
 ## 🌟 Why This Will Go Viral
 
-- **Solves a Common Pain Point**: Every Kali Linux user hits this error eventually. 🐞
+- **Solves a Common Pain Point**: Every Linux user hits this error eventually. 🐞
 - **Dead Simple**: One line to rule them all! 🧙‍♂️
 - **Community Love**: We’re open to contributions—add features, improve safety, or share your use cases! 💬
 - **Shareable**: Spread the word on X, Reddit, or your favorite dev forums! 📣
 
-## 🤝 Contributing
-
-Want to make PipFix even better? Here’s how:
-
-1. Fork this repo 🍴
-2. Create a feature branch (`git checkout -b feature/awesome-idea`)
-3. Commit your changes (`git commit -m "Added awesome idea"`)
-4. Push to the branch (`git push origin feature/awesome-idea`)
-5. Open a Pull Request 🚀
-
-Check our Contributing Guidelines for more details.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## 🙌 Acknowledgments
 
-- Inspired by the struggles of Kali Linux users everywhere! 🐉
+- Inspired by the struggles of Linux users everywhere! 🐉
 - Thanks to the open-source community for keeping the dev world spinning. 🌍
 
 ---
